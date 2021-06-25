@@ -1,0 +1,24 @@
+Textures:
+Disclaimer - bmp files are renamed with numbers to properly ID the files
+Checkerboard, Dark, Light, and HP bar textures are created by Christian R Håpnes in paint
+Stone Bricks:: https://www.wildtextures.com/wp-content/uploads/wildtextures_big-stone-wall-4k-720x720.jpg
+Wood: https://i.pinimg.com/originals/09/53/c4/0953c48c0240e11d2b3069d31927fb2d.jpg
+Metal: https://previews.123rf.com/images/kokoroyuki/kokoroyuki1611/kokoroyuki161100051/68284170-silver-metal-texture-background.jpg
+
+SkyBox:
+skyrender0001.bmp, etc : (renamed to correct order for cubemap)
+https://www.turbosquid.com/FullPreview/Index.cfm/ID/348109
+
+Meshes:
+All meshes are created by Christian R Håpnes with Blender
+
+Sounds:
+Door: https://www.youtube.com/watch?v=Nfg1LS5b5x8
+Pop: https://www.youtube.com/watch?v=oZI4QhyO5ew
+Bonk: https://www.youtube.com/watch?v=ZXK427oXjn8
+Footsteps: https://www.youtube.com/watch?v=dnRX_bHbYgs
+
+Music:
+"Sneaky Snitch" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
