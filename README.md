@@ -1,4 +1,4 @@
-Project made by Christian R Håpnes for the University course Game Engine Architecture in 2020, cloned repository.
+Project made by Christina RH for the University course Game Engine Architecture in 2020, cloned repository.
 
 Important note:
 IF the engine crashes on launch without any errors, make sure all libraries are installed on your PC
